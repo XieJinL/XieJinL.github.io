@@ -1,2 +1,4 @@
 # jonaxie.github.io
-individual website
+
+## 我的linux配置和一些我的代码
+
