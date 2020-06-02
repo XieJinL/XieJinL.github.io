@@ -1,4 +1,3 @@
 # jonaxie.github.io
 
-## 我的linux配置和一些我的代码
-
+## 一些配置文件和一些代码
